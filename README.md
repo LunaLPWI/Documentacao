@@ -1,2 +1,2 @@
-# Documenta-o
+# Documentacao
 Documentação do projeto GymCore
